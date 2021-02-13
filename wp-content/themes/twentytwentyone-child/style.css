@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Twenty Twenty-One Child
+ Description:  Twenty Twenty-One Child Theme
+ Author:       Brandon Paul
+ Template:     twentytwentyone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+*/
+
+:root {
+    color: red;
+}
+
+h2.entry-title {
+    color: goldenrod;
+}
